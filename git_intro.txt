@@ -1,0 +1,5 @@
+=================to check files in folder 
+git status
+
+----------to add changes in uploded file 
+git add -A
